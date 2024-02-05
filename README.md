@@ -1,8 +1,8 @@
-# jazztech
+# Techy Software
 
 
 
-Portfolio website for jazztech.
+2nd Project Portfolio website for Nexus Intern.
 
 
 
